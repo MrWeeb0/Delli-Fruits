@@ -4,6 +4,14 @@ Previzualizare de site de prezentare, realizată la 1 noiembrie 2026 pentru Nicu
 
 [Deschide previzualizarea online](https://delli-fruits-preview-nicu.fundatia-ino-3769.chatgpt.site/)
 
+## Publicare pe GitHub Pages
+
+Adresa după activare: [mrweeb0.github.io/Delli-Fruits](https://mrweeb0.github.io/Delli-Fruits/).
+
+În setările repository-ului, la **Pages → Build and deployment → Source**, se selectează **GitHub Actions**. Workflow-ul `.github/workflows/deploy-pages.yml` publică exclusiv conținutul `dist/`, la modificarea fișierelor site-ului pe `main` sau la rulare manuală din Actions. Nu sunt necesare chei ori servicii externe.
+
+[Setări Pages](https://github.com/MrWeeb0/Delli-Fruits/settings/pages) · [Workflow de publicare](https://github.com/MrWeeb0/Delli-Fruits/actions/workflows/deploy-pages.yml)
+
 ## Experiența
 
 - Design bento cu blocuri modulare de dimensiuni diferite, colțuri rotunjite, fundal gri deschis și accente lila, lime și coral.
