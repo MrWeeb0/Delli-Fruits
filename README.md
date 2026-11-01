@@ -43,4 +43,4 @@ Prompt folosit:
 
 Redesign bento validat pe desktop și la 390 × 844 px: filtre, meniu mobil, configurator și mesaj WhatsApp funcționale, fără imagini lipsă sau depășire orizontală.
 
-Configurarea și identificatorul Sites sunt în `.openai/hosting.json`. Publicarea păstrează accesul privat.
+Configurarea și identificatorul Sites sunt în `.openai/hosting.json`. Previzualizarea găzduită pe Sites este privată; vizibilitatea acestui repository se administrează separat în GitHub.
